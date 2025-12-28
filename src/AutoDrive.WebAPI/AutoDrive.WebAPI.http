@@ -1,0 +1,6 @@
+@AutoDrive.WebAPI_HostAddress = http://localhost:5155
+
+GET {{AutoDrive.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
