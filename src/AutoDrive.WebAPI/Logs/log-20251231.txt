@@ -1,0 +1,7 @@
+2025-12-31 12:45:17.549 +04:00 [INF] HTTP GET /swagger/index.html responded 200 in 92.1347 ms
+2025-12-31 12:45:17.706 +04:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.5156 ms
+2025-12-31 12:45:52.600 +04:00 [INF] HTTP GET /swagger/index.html responded 200 in 90.1718 ms
+2025-12-31 12:45:52.719 +04:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 13.4761 ms
+2025-12-31 12:46:11.739 +04:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-12-31 12:46:12.891 +04:00 [WRN] Entity 'User' has a global query filter defined and is the required end of a relationship with the entity 'RefreshToken'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2025-12-31 12:46:15.161 +04:00 [INF] HTTP POST /api/Users/Login responded 200 in 3498.9554 ms
